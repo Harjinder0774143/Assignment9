@@ -1,0 +1,73 @@
+[
+{
+    "name": "Katniss Everdeen",
+    "playedBy": "Jennifer Lawrence",
+    "description": "Katniss Everdeen is a fictional character and the protagonist of The Hunger Games trilogy written by American author Suzanne Collins. Her name comes from a plant with edible tubers called Sagittaria, from Sagittarius the Archer, whose name means He that throws arrows in Latin",
+    "referenceLink": "https://en.wikipedia.org/wiki/Katniss_Everdeen",
+    "bornDate": "2015-05-08"
+},
+{
+    "name": "Popeye",
+    "playedBy": "Jack mercer",
+    "description": "Popeye the Sailor Man is a fictional cartoon character created by Elzie Crisler Segar. The character first appeared in the daily King Features comic strip Thimble Theatre on January 17, 1929, and Popeye became the strip's title in later years",
+    "referenceLink": "https://en.wikipedia.org/wiki/Popeye",
+    "bornDate": "1962-04-15"
+},
+{
+    "name": "Mickey Mouse",
+    "playedBy": "walt Disney",
+    "description": "Michael Theodore \"Mickey\" Mouse is a cartoon character created in 1928 by The Walt Disney Company, who also serves as the brand's mascot. An anthropomorphic mouse who typically wears red shorts, large yellow shoes, and white gloves, Mickey is one of the world's most recognizable fictional characters.",
+    "referenceLink": "https://en.wikipedia.org/wiki/Mickey_Mouse",
+    "bornDate": "1901-12-05"
+},
+{
+    "name": "Hannibal Lecter",
+    "playedBy": "Anthony Hopkins",
+    "description": "Hannibal Lecter is a fictional character created by novelist Thomas Harris. Lecter is a serial killer who eats his victims. Before his capture, he was a respected forensic psychiatrist; after his incarceration, he is consulted by FBI agents Will Graham and Clarice Starling to help them find other serial killers",
+    "referenceLink": "hhttps://en.wikipedia.org/wiki/Hannibal_Lecter",
+    "bornDate": "1933-01-10"
+},
+{
+    "name": "James Bond",
+    "playedBy": "Daniel Craig",
+    "description": "The James Bond series focuses on a fictional British Secret Service agent created in 1953 by writer Ian Fleming, who featured him in twelve novels and two short-story collections. Since Fleming's death in 1964, eight other authors have written authorised Bond novels or novelisations: Kingsley Amis, Christopher Wood, John Gardner, Raymond Benson, Sebastian Faulks, Jeffery Deaver, William Boyd, and Anthony Horowitz. The latest novel is Forever and a Day by Anthony Horowitz, published in May 2018.",
+    "referenceLink": "https://en.wikipedia.org/wiki/James_Bond",
+    "bornDate": "1981-09-27"
+},
+{
+    "name": "Superman",
+    "playedBy": "henry Cavill",
+    "description": "Clark Joseph Kent, also known by his birth name Kal-El or superhero persona Superman, is a fictional character and a superhero in the DC Extended Universe series of films, based on the character of the same name created by Jerry Siegel and Joe Shuster.",
+    "referenceLink": "https://en.wikipedia.org/wiki/Clark_Kent_(DC_Extended_Universe)",
+    "bornDate": "1988-01-29"
+},
+{
+    "name": "Wolverine",
+    "playedBy": "Hugh Jackman",
+    "description": "James \"Logan\" Howlett, better known by his codename, Wolverine, is a fictional character from 20th Century Fox's superhero film series X-Men, portrayed by Hugh Jackman and based on the Marvel Comics character Wolverine, created by Roy Thomas, Len Wein and John Romita",
+    "referenceLink": "https://en.wikipedia.org/wiki/Logan_(film_series_character)",
+    "bornDate": "1832-07-09"
+},
+
+{
+    "name": "Optimus Prime",
+    "playedBy": "peter Cullen",
+    "description": "Optimus Prime, known in Japan as Convoy, is a fictional character created by the Transformers franchise. He is a Cybertronian, a fictional extraterrestrial species of sentient self-configuring modular robotic lifeforms, a synergistic blend of biological evolution and technological engineering.",
+    "referenceLink": "https://en.wikipedia.org/wiki/Optimus_Prime",
+    "bornDate": "1979-03-17"
+},
+{
+    "name": "Shaggy Rogers",
+    "playedBy": "Matthew Lillard",
+    "description": "Norville \"Shaggy\" Rogers is a fictional character in the Scooby-Doo franchise. He is known as a detective and cowardly slacker and the long-time best friend of his equally cowardly dog, Scooby-Doo.",
+    "referenceLink": "https://en.wikipedia.org/wiki/Shaggy_Rogers",
+    "bornDate": "1985-11-24"
+},
+{
+    "name": "Harry Potter",
+    "playedBy": "Daniel Radcliffe",
+    "description": "Harry James Potter is a fictional character and the titular protagonist in J. K. Rowling's series of eponymous novels. The majority of the books' plot covers seven years in the life of the orphan Harry, who, on his eleventh birthday, learns he is a wizard.",
+    "referenceLink": "https://en.wikipedia.org/wiki/Harry_Potter_(character)",
+    "bornDate": "1983-09-12"
+}
+]

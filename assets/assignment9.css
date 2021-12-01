@@ -1,0 +1,77 @@
+.content-wrap {
+    padding: 2% 4%;
+    background-color: beige
+}
+
+table,
+tr,
+th,
+td {
+    background-color: #fff;
+
+}
+
+table {
+    border: 1px solid #000;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.search-wrap {
+    padding: 1em 0px;
+}
+
+td,
+th {
+    padding: 8px;
+    vertical-align: top;
+}
+
+tr:first {
+    background-color: green;
+}
+
+th {
+    background-color: #e2e2e2;
+    border-right: 1px solid #e2e2e2;
+    text-transform: capitalize;
+}
+
+td {
+    border-bottom: 1px solid #f2f2f2;
+}
+
+table {
+    text-align: left;
+    border-radius: 4px;
+}
+
+input[type=text] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+header, footer{
+	padding: 2% 6%;
+	background-color: #b7ebb7;
+}
+
+td{
+    min-width: 90px;
+}
